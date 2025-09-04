@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "question": "What is the output of: console.log(typeof NaN) ?",
+    "options": [
+      "number",
+      "NaN",
+      "undefined",
+      "object"
+    ],
+    "answer": 0,
+    "difficulty": "easy",
+    "category": "JavaScript"
+  },
+  {
+    "id": 2,
+    "question": "Which React hook is used to perform side effects in a function component?",
+    "options": [
+      "useState",
+      "useEffect",
+      "useMemo",
+      "useReducer"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 3,
+    "question": "In CSS, what does the 'flex: 1' shorthand set?",
+    "options": [
+      "flex-grow only",
+      "flex-shrink only",
+      "flex-basis only",
+      "flex-grow, flex-shrink, flex-basis"
+    ],
+    "answer": 3,
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 4,
+    "question": "Which HTTP status code represents 'Created'?",
+    "options": [
+      "200",
+      "201",
+      "204",
+      "301"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "category": "HTTP"
+  },
+  {
+    "id": 5,
+    "question": "What does JSON stand for?",
+    "options": [
+      "JavaScript Oriented Notation",
+      "Java Source Object Notation",
+      "JavaScript Object Notation",
+      "Java Serialized Object Notation"
+    ],
+    "answer": 2,
+    "difficulty": "easy",
+    "category": "Web"
+  },
+  {
+    "id": 6,
+    "question": "Which array method returns a new array with all elements that pass the test?",
+    "options": [
+      "map()",
+      "filter()",
+      "reduce()",
+      "forEach()"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "category": "JavaScript"
+  },
+  {
+    "id": 7,
+    "question": "What prop should you pass to React list children for efficient rendering?",
+    "options": [
+      "id",
+      "key",
+      "ref",
+      "name"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 8,
+    "question": "Which CSS unit scales with the root font size?",
+    "options": [
+      "em",
+      "rem",
+      "px",
+      "vh"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 9,
+    "question": "Which API returns trivia questions in JSON format?",
+    "options": [
+      "OpenWeather",
+      "Open Trivia DB",
+      "REST Countries",
+      "GitHub Gists"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "category": "API"
+  },
+  {
+    "id": 10,
+    "question": "What does the React hook 'useReducer' help manage?",
+    "options": [
+      "Forms only",
+      "Complex state transitions",
+      "HTTP requests",
+      "Styling"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "category": "React"
+  }
+]
